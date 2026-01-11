@@ -1,7 +1,7 @@
 <h1 align="center">Gagana Kumar Konduri</h1>
 
 <p align="center">
-  <b>Computer Science (AIML) Graduate · Full-Stack & CRM Developer · AIML Specialist</b>
+  <b>Computer Science (AIML) Graduate · CRM Developer · AIML & Full-Stack Enthusiast</b>
 </p>
 
 <p align="center">
