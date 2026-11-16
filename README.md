@@ -1,106 +1,85 @@
-<h1 align="center">Gagana Kumar Konduri</h1>
+<!-- ================================================================ --> <!-- GitHub Profile README · Gagana Kumar Konduri (@gagan045) --> <!-- ================================================================ --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:2F81F7&height=190&section=header&text=Gagana%20Kumar%20Konduri&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Dynamics%20365%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Systems&descSize=16&descAlignY=58&animation=fadeIn" alt="Gagana Kumar Konduri" /> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+Northeastern+University%2C+Vancouver;Ex-CRM+Developer+%40+Providence+Global+Center;Building+CRM%2C+cloud+and+ML+systems+that+ship" alt="Intro" /> <br/>
 
-<p align="center">
-  <b>Computer Science (AIML) Graduate · CRM Developer · AIML & Full-Stack Enthusiast</b>
-</p>
+<a href="#about"><b>About</b></a>  ·  <a href="#experience"><b>Experience</b></a>  ·  <a href="#projects"><b>Projects</b></a>  ·  <a href="#publications"><b>Publications</b></a>  ·  <a href="#tech-stack"><b>Tech Stack</b></a>  ·  <a href="#contact"><b>Contact</b></a>
 
-<p align="center">
-  Designing <b>enterprise CRM solutions</b>, <b>AI/ML-driven systems</b>, and <b>scalable full-stack applications</b><br/>
-  with a strong focus on clean architecture, automation, and research-backed problem solving.
-</p>
+<br/><br/>
 
----
+<a href="https://portfolio-tan-sigma-59.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://linkedin.com/in/gagana-kumar-konduri-801386240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:konduri.gagan04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/gagan045"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-## 🔭 Current Work — CRM Engineering
+</div> <br/>
+About
+<table> <tr> <td width="60%" valign="top">
 
-**Microsoft Dynamics 365 | Enterprise CRM Solution Development**
+I'm a Software Engineer who builds enterprise CRM platforms, cloud-backed services and applied AI systems that work outside the notebook.
 
-- Designing and implementing **end-to-end CRM solutions** using  
-  **Plugins (C#), PCF Controls, Power Automate, Dataverse, JavaScript**
-- Automating complex business workflows, validations, and approvals
-- Building scalable integrations between **CRM, React frontends, and backend services**
-- Improving system reliability, usability, and data consistency across applications
+My work sits where business-process automation meets machine learning — clean architecture, measurable results and research-backed decisions.
 
----
+Currently: pursuing an MS in Computer Science at Northeastern University, Vancouver, and going deeper into system design and production ML.
 
-## 🧠 AIML Expertise & Research Focus
+</td> <td width="40%" valign="top">
 
-My academic and practical experience in **Artificial Intelligence & Machine Learning** focuses on applying research-driven models to real-world systems.
+Focus areas
 
-**Core Areas**
-- Computer Vision (Object Detection, Image Classification)
-- Natural Language Processing (NLP)
-- Predictive Analytics & Intelligent Automation
-- Model optimization for real-time performance
+Microsoft Dynamics 365 & Power Platform
+Computer Vision & NLP
+Scalable backends & APIs
+Production ML deployment
+</td> </tr> </table> <br/>
+Experience
+<table> <tr> <td width="30%" valign="top"> <b>CRM Developer</b><br/> <sub>Providence Global Center</sub> </td> <td valign="top">
+Delivered end-to-end Dynamics 365 solutions with C# Plugins, PCF Controls, Power Automate, Dataverse and JavaScript
+Automated complex business workflows, validations and approval chains
+Integrated CRM with React front-ends and backend services
+Improved reliability, usability and data consistency across applications
+</td> </tr> <tr> <td width="30%" valign="top"> <b>MS, Computer Science</b><br/> <sub>Northeastern University · Vancouver</sub> </td> <td valign="top">
 
-**Technologies**
-- TensorFlow, PyTorch, Keras  
-- OpenCV, YOLO (v5, v8)  
-- FastAPI-based ML inference pipelines  
-- Data preprocessing, augmentation, and evaluation
+Graduate study in software systems, system design and AI/ML.
 
----
+</td> </tr> <tr> <td width="30%" valign="top"> <b>B.E., Computer Science (AI & ML)</b><br/> <sub>Undergraduate</sub> </td> <td valign="top">
 
-## 🔬 Research & AI Projects
+Research in computer vision, IoT and deep learning, with two publications.
 
-### 🚗 Real-Time Vehicle Detection & License Plate Recognition
-- Developed a **real-time traffic surveillance system** using **YOLOv8** for vehicle detection
-- Integrated **Gemini (Vision-Language Model)** for automatic license plate recognition
-- Achieved **97.2% detection accuracy** with stable **30 FPS** performance
-- Designed a scalable architecture suitable for **smart city deployments**
+</td> </tr> </table> <br/>
+Projects
+<table> <tr> <td width="33%" valign="top">
+Vehicle Detection & LPR
 
-### 🏥 YOLOv5-Based Liver Tumor Detection
-- Built a medical imaging pipeline for **early-stage tumor detection**
-- Expanded dataset from **1,470 → 6,000 images** using custom augmentation
-- Achieved **95%+ precision**, enabling detection of micro-lesions
-- Delivered results via a clinician-friendly **Flask web interface**
+Real-time traffic surveillance using YOLOv8, with Gemini vision-language model for license-plate recognition.
 
-### 🗑️ IoT-Based Smart Waste Management System
-- Integrated **IoT sensors, GPS, and deep learning (ResNet-50)** for waste classification
-- Achieved **95.4% accuracy** across 12 waste categories
-- Optimized waste collection routes using **TSP algorithms & OpenStreetMap**
-- Reduced operational delays by **42%**
+97.2% accuracy · 30 FPS
 
----
+<sub>YOLOv8 Gemini OpenCV Python</sub>
 
-## 📚 Publications & Journals
+</td> <td width="33%" valign="top">
+Liver Tumor Detection
 
-- **IoT-Based Deep Learning Model for Sustainable Waste Management System**  
-  *JISEM Journal*  
-  → Focused on IoT + deep learning for smart city sustainability and optimized waste collection
+Medical imaging pipeline for early-stage tumor detection, delivered through a clinician-friendly web interface.
 
-- **Real-Time Vehicle Detection and License Plate Recognition**  
-  *ICCTRDA 2025 Conference*  
-  → AI-powered traffic surveillance system using YOLOv8 and multimodal AI models
+95%+ precision · 6,000 images
 
----
+<sub>YOLOv5 Flask PyTorch OpenCV</sub>
 
-## 🌱 Currently Upskilling
+</td> <td width="33%" valign="top">
+Smart Waste Management
 
-- Advanced **AI/ML research methodologies**
-- System design & backend scalability
-- Production-grade ML deployment and optimization
+IoT sensors, GPS and ResNet-50 classify waste; TSP routing on OpenStreetMap optimizes collection.
 
----
+95.4% accuracy · 42% fewer delays
 
-## 🏆 Achievements
+<sub>ResNet-50 IoT TSP OSM</sub>
 
-- **Winner** — Smart Hacks 2K23 *(National-level Hackathon)*  
-- **Runner-up** — Innovasia 2023, Vasavi College of Engineering  
-- **Finalist** — Accenture Innovasia Challenge 2023  
-- **Best Project Award (2024)** — AI-Based Solution Development
+</td> </tr> </table> <p align="center"><sub>More projects and demos on my <a href="https://portfolio-tan-sigma-59.vercel.app/">portfolio →</a></sub></p> <br/>
+Publications
+<table> <tr> <td width="70%"><b>IoT-Based Deep Learning Model for Sustainable Waste Management System</b><br/><sub>IoT + deep learning for smart-city sustainability and optimized waste collection</sub></td> <td align="center"><sub>JISEM Journal</sub></td> </tr> <tr> <td width="70%"><b>Real-Time Vehicle Detection and License Plate Recognition</b><br/><sub>AI traffic surveillance using YOLOv8 and multimodal models</sub></td> <td align="center"><sub>ICCTRDA 2025</sub></td> </tr> </table>
 
----
+Achievements — Winner, Smart Hacks 2K23 (national hackathon) · Runner-up, Innovasia 2023 · Finalist, Accenture Innovasia Challenge 2023 · Best Project Award 2024
 
-## 🌐 Connect With Me
+<br/>
+Tech Stack
+<table> <tr> <td width="22%"><b>Languages</b></td> <td><img src="https://skillicons.dev/icons?i=cs,py,ts,js,java,c,php,html,css&theme=dark" alt="Languages"/></td> </tr> <tr> <td><b>Microsoft & CRM</b></td> <td> <img src="https://skillicons.dev/icons?i=azure,dotnet&theme=dark" alt="Azure, .NET"/> <br/> <img src="https://img.shields.io/badge/Dynamics_365-1F2937?style=flat-square" alt="Dynamics 365"/> <img src="https://img.shields.io/badge/Dataverse-1F2937?style=flat-square" alt="Dataverse"/> <img src="https://img.shields.io/badge/Power_Automate-1F2937?style=flat-square" alt="Power Automate"/> <img src="https://img.shields.io/badge/PCF_Controls-1F2937?style=flat-square" alt="PCF Controls"/> <img src="https://img.shields.io/badge/Power_BI-1F2937?style=flat-square" alt="Power BI"/> </td> </tr> <tr> <td><b>AI / ML</b></td> <td> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI/ML"/> <br/> <img src="https://img.shields.io/badge/Keras-1F2937?style=flat-square" alt="Keras"/> <img src="https://img.shields.io/badge/YOLO-1F2937?style=flat-square" alt="YOLO"/> <img src="https://img.shields.io/badge/NumPy-1F2937?style=flat-square" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-1F2937?style=flat-square" alt="Pandas"/> <img src="https://img.shields.io/badge/Matplotlib-1F2937?style=flat-square" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Streamlit-1F2937?style=flat-square" alt="Streamlit"/> </td> </tr> <tr> <td><b>Web & Backend</b></td> <td><img src="https://skillicons.dev/icons?i=react,vite,nodejs,nestjs,fastapi,flask&theme=dark" alt="Web & Backend"/></td> </tr> <tr> <td><b>Databases</b></td> <td><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" alt="Databases"/></td> </tr> <tr> <td><b>DevOps & Tools</b></td> <td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman&theme=dark" alt="DevOps & Tools"/></td> </tr> </table> <br/>
+Contact
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagana-kumar-konduri-801386240)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:konduri.gagan04@gmail.com)
+Open to Software Engineering, Dynamics 365 / CRM and AI/ML roles.<br/> The fastest way to reach me is <a href="mailto:konduri.gagan04@gmail.com"><b>konduri.gagan04@gmail.com</b></a>.
 
----
-
-## 💻 Technical Skill Set
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1E3A8A,100:0D1117&height=110&section=footer" alt="footer"/> </div>
